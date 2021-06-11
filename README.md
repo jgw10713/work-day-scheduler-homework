@@ -4,6 +4,8 @@
 
 A simple calendar application that allows a user to save events for each hour of the work day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
+![Website Link](https://jgw10713.github.io/work-day-scheduler-homework/)
+
 ## Table of Contents 
 - [Description](#description)
 - [Usage](#usage)
@@ -30,8 +32,9 @@ Displays whether a timeblock is in the past, present, or future by dynamically c
 
 The following animation demonstrates the application functionality:
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/example.gif)
+![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/images/example.gif)
 
+![Website Link](https://jgw10713.github.io/work-day-scheduler-homework/)
 
 ## Questions
 
